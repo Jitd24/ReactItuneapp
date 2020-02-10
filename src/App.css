@@ -1,0 +1,40 @@
+.App {
+  text-align: center;
+}
+
+nav{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  min-height: 10vh;
+  background: rgb(54, 100, 122);
+  color: white;
+}
+.nav-links{
+  width: 25%;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+
+}
+
+.btn{
+  width: 10%;
+  height: 5vh;
+  color: white;
+  background: rgb(76, 148, 92);
+}
+
+.details{
+ 
+  border: 2px solid rgb(65, 131, 143);
+  
+  width: 15%;
+  height: 3vh;
+  
+}
+
+.post-list{
+  list-style: none;
+}
